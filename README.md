@@ -1,7 +1,7 @@
 ## Introduction to the Theory of Computation by Michael Sipser
 
 - [Michael Sipser - MIT](https://math.mit.edu/~sipser/)
-- [Michael Sipser - Wikipedia](https://en.wikipedia.org/wiki/Michael_Sipser)]
+- [Michael Sipser - Wikipedia](https://en.wikipedia.org/wiki/Michael_Sipser)
 - [MIT 18.404J Theory of Computation, Fall 2020 - Instructor: Michael Sipser](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 
